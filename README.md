@@ -200,7 +200,14 @@ El proyecto demuestra la implementación de una arquitectura basada en APIs, as�
 Además, el sistema puede ampliarse fácilmente agregando nuevos endpoints o integrando bases de datos en el futuro.
 
 # 📸 Evidencia del Ejercicio 
-![pruebas](https://github.com/natalyvictoria-jpg/API-COMUNITARIA-DOLORES/raw/main/api.jpeg)
+![pruebas](https://github.com/natalyvictoria-jpg/API-COMUNITARIA-DOLORES/raw/main/A.jpeg)
+
+![pruebas](https://github.com/natalyvictoria-jpg/API-COMUNITARIA-DOLORES/raw/main/B.jpeg)
+
+![pruebas](https://github.com/natalyvictoria-jpg/API-COMUNITARIA-DOLORES/raw/main/C.jpeg)
+
+![pruebas](https://github.com/natalyvictoria-jpg/API-COMUNITARIA-DOLORES/raw/main/D.jpeg)
+
 
 ## Conclusión
 
