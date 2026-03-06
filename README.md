@@ -158,6 +158,20 @@ Ruta
 Método
 POST
 
+## Endpoints 🌐💻
+
+| Método | URL | Descripción |
+|--------|-----|-------------|
+| GET | /api/health/ | Estado de la API |
+| GET | /api/health/ping | Ping |
+| GET | /api/health/version | Versión y ambiente |
+| GET | /api/artesanos/ | Listar artesanos |
+| POST | /api/artesanos/ | Crear artesano |
+| GET | /api/artesanos/{id} | Obtener artesano |
+| PUT | /api/artesanos/{id} | Reemplazar artesano |
+| PATCH | /api/artesanos/{id} | Actualizar parcialmente |
+| DELETE | /api/artesanos/{id} | Eliminar artesano |
+
 ## Manejo de Errores
 
 La API incluye manejo básico de errores para mejorar la experiencia del usuario y facilitar la identificación de problemas.
