@@ -199,6 +199,9 @@ El proyecto demuestra la implementación de una arquitectura basada en APIs, as�
 
 Además, el sistema puede ampliarse fácilmente agregando nuevos endpoints o integrando bases de datos en el futuro.
 
+# 📸 Evidencia del Ejercicio 
+![pruebas](https://github.com/natalyvictoria-jpg/API-COMUNITARIA-DOLORES/raw/main/api.jpeg)
+
 ## Conclusión
 
 El desarrollo de esta API permitió comprender el funcionamiento de los servicios web y la importancia de las APIs en la comunicación entre sistemas.
